@@ -1,8 +1,8 @@
 class Lawsg < Formula
   desc "The AWS Cloudwatch Log Viewer"
   homepage "https://github.com/mmcquillan/lawsg"
-  url "https://github.com/mmcquillan/lawsg/releases/download/v0.3.0/lawsg-0.3.0.tar.gz"
-  sha256 "2fe9357001220117beadb71e74c130621e7e856aa54827cecae266f0eecd2658"
+  url "https://github.com/mmcquillan/lawsg/releases/download/v0.4.0/lawsg-0.4.0.tar.gz"
+  sha256 "d9fe4a12f80012643c4f0955ad53d4c38fdf63af7f4b7cc2675a52ae236b2863"
 
   bottle :unneeded
 
